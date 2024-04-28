@@ -3,7 +3,7 @@
 addSubDomain({
   description: 'trying out stuff and needing domains to maybe host a linux distro', // describe your project in this field
   domain: 'is-an.app', // aka "root-domain". select between '1bt.uk' and 'is-an.app'
-  subdomain: 'foobar', // desired subdomain name
+  subdomain: 'danlp6', // desired subdomain name
   owner: {
     repo: '<https://URL/to/the/repository/with/your/project/sources/if/it/is/public>',
     email: '<danlp6.com@outlook.de>',
